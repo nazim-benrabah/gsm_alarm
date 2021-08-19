@@ -1,5 +1,5 @@
 # gsm_alarm
-ThIS project consists in realizing a system of alarm gsm anti-intrusion based on arduino using the following material:
+This project consists in realizing a system of alarm gsm anti-intrusion based on arduino using the following material:
 - An ARDUINO UNO control board.
 - 9V battery.
 - GSM module SIM900.
